@@ -27,11 +27,11 @@ Proyecto multi-plataforma para registrar entrenamientos, crear rutinas y analiza
 training-tracker
 ├── android
 ├── backend
-│   └── src
-│       ├── main
-│       │   ├── java
-│       │   └── resources
-│       └── test
+│   └── src
+│       ├── main
+│       │   ├── java
+│       │   └── resources
+│       └── test
 ├── db
 ├── frontend
 ├── LICENSE

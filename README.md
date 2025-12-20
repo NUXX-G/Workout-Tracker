@@ -24,15 +24,13 @@ Proyecto multi-plataforma para registrar entrenamientos, crear rutinas y analiza
 
 ## Estructura del proyecto
 
-training-tracker
-├── android
-├── backend
-│   └── src
-│       ├── main
-│       │   ├── java
-│       │   └── resources
-│       └── test
-├── db
-├── frontend
-├── LICENSE
-└── README.md
+| Carpeta/Archivo | Descripción |
+|-----------------|-------------|
+| backend/        | Backend Java con Spring Boot |
+| backend/src/    | Código fuente y recursos |
+| frontend/       | HTML, CSS, JS |
+| android/        | App Android (Java/Kotlin) |
+| db/             | Scripts SQL |
+| LICENSE         | Licencia MIT |
+| README.md       | Documentación del proyecto |
+

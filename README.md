@@ -24,3 +24,15 @@ Proyecto multi-plataforma para registrar entrenamientos, crear rutinas y analiza
 
 ## Estructura del proyecto
 
+training-tracker
+├── android
+├── backend
+│   └── src
+│       ├── main
+│       │   ├── java
+│       │   └── resources
+│       └── test
+├── db
+├── frontend
+├── LICENSE
+└── README.md

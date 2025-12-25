@@ -11,7 +11,7 @@ Proyecto multi-plataforma para registrar entrenamientos, crear rutinas y analiza
 - **Backend:** Java con Spring Boot, API REST
 - **Frontend web:** HTML, CSS, JavaScript
 - **App Android:** Java/Kotlin (pendiente de desarrollo)
-- **Base de datos:** MySQL o PostgreSQL
+- **Base de datos:** PostgreSQL
 - **Extras:** scripts SQL para crear la base de datos y datos de ejemplo
 
 ## Funcionalidades principales

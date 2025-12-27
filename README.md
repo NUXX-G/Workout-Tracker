@@ -1,8 +1,8 @@
 
-# Training-Tracker
+# Workout-Tracker
 Aplicación para gestionar entrenamientos, crear rutinas y analizar el rendimiento del usuario.
 
-# Training Tracker
+# Workout-Tracker
 
 Proyecto multi-plataforma para registrar entrenamientos, crear rutinas y analizar el rendimiento. Incluye **backend en Java (Spring Boot)**, **frontend web (HTML, CSS, JavaScript)** y futura **app Android**.
 
